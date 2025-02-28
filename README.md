@@ -8,8 +8,8 @@ La aplicación permite agregar, eliminar productos en el carrito, proporcionando
 ## 🚀 Tecnologías utilizadas  
 - Vite ⚡  
 - React ⚛️  
-- JavaScript 
-- CSS 
+- JavaScript 🟨
+- CSS 🎨
 
 ## 📌 Características  
 ✅ Agregar productos al carrito  
